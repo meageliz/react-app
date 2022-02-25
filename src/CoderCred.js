@@ -8,6 +8,7 @@ export default function CoderCred() {
         href="https://github.com/meageliz/react-app"
         target="_blank"
         rel="noreferrer"
+        className="gitLink"
       >
         Open-source code
       </a>{" "}
