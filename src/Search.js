@@ -39,8 +39,8 @@ export default function Search() {
         />
         <button type="Submit">Search</button>
       </form>
-      <ul>
-        <li className="weatherList">
+      <ul className="weatherList">
+        <li>
           The temperature in {city} is: {weather.temperature}
         </li>
         <li>
