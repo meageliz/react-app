@@ -3,6 +3,6 @@
   text-align: center;
 }
 
-.Search .weatherList {
+.Search .ul .weatherList {
   list-style-type: none;
 }
