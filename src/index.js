@@ -1,9 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
+import "./styles.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import axios from "axios";
 
 ReactDOM.render(
   <React.StrictMode>
