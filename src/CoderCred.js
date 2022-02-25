@@ -1,4 +1,5 @@
 import React from "react";
+import "./CoderCred.css";
 
 export default function CoderCred() {
   return (

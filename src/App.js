@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./App.css";
 import Search from "./Search";
 import CoderCred from "./CoderCred";
 
